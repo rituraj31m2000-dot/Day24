@@ -44,9 +44,3 @@ The script reads `security_events_raw.csv` and writes `security_events_classifie
 ## Limitations and ethics
 All records are synthetic and use documentation-only IP ranges (192.0.2.0/24, 198.51.100.0/24, and 203.0.113.0/24). Names and events are fictional. This is a learning exercise, not a validated detection product. Never upload real logs containing personal data, credentials, tokens, or confidential company information to a public repository.
 
-## Portfolio checklist
-- [ ] Review every event and reason.
-- [ ] Add a screenshot of the dataset (remove personal or confidential information).
-- [ ] Keep this README in the repository root.
-- [ ] Publish the project on LinkedIn and copy the post URL.
-- [ ] Submit the GitHub URL and LinkedIn URL in the internship portal.
